@@ -944,8 +944,10 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"Verdana Bold" [$LINUX]
 				"name"		"Verdana"
-				"tall"		"18"
+				"tall"		"22" [$LINUX]
+				"tall"		"18" [$WIN32]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
@@ -953,8 +955,10 @@ Scheme
 			}
 			"2"
 			{
+				"name"		"Verdana Bold" [$LINUX]
 				"name"		"Verdana"
-				"tall"		"24"
+				"tall"		"30" [$LINUX]
+				"tall"		"24" [$WIN32]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
@@ -963,8 +967,10 @@ Scheme
 			}
 			"3"
 			{
+				"name"		"Verdana Bold" [$LINUX]
 				"name"		"Verdana"
-				"tall"		"36"
+				"tall"		"45" [$LINUX]
+				"tall"		"36" [$WIN32]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
@@ -973,8 +979,10 @@ Scheme
 			}
 			"4"
 			{
+				"name"		"Verdana Bold" [$LINUX]
 				"name"		"Verdana"
-				"tall"		"36"
+				"tall"		"45" [$LINUX]
+				"tall"		"36" [$WIN32]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
@@ -983,8 +991,10 @@ Scheme
 			}
 			"5"
 			{
+				"name"		"Verdana Bold" [$LINUX]
 				"name"		"Verdana"
-				"tall"		"36"
+				"tall"		"45" [$LINUX]
+				"tall"		"36" [$WIN32]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -993,16 +1003,20 @@ Scheme
 			}
 			"6"
 			{
+				"name"		"Verdana Bold" [$LINUX]
 				"name"		"Verdana"
-				"tall"		"20"
+				"tall"		"25" [$LINUX]
+				"tall"		"20" [$WIN32]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 				"dropshadow" "1"
 			}
 			"7"
 			{
+				"name"		"Arial Bold" [$LINUX]
 				"name"		"Arial"
-				"tall"		"20"
+				"tall"		"25" [$LINUX]
+				"tall"		"20" [$WIN32]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 				"dropshadow" "1"
