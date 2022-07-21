@@ -1,6 +1,8 @@
 # PV Hud
-
-
+Fork of Hypnootize's updated PV Hud with better font support for Linux
+Currently only combattext fonts have been altered.
+Requires Microsoft fonts to be installed system-wide, read about that here: https://wiki.archlinux.org/title/Microsoft_fonts
+Rest of original readme is as follows:
 <a>LINKS</a>
 ====
 
